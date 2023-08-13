@@ -52,6 +52,22 @@ https://miro.com/app/board/uXjVMPVvQ1U=/?share_link_id=516697064475
 - CI/CD
 - Crashlitycs
 - Analityc
+- App Release
+- iOS
+- Programming
+- Multithreading
+- Security
+- Offline Mode
+- SQLite
+- Socket
+- GraphQL
+- XCTest
+- Team Structure
+- Сollaborative design work tools
+- Project management approach
+- Collaborative back-end work tools
+- Сollaborative team work tools
+
 
 
 ## Step 6
