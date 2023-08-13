@@ -71,3 +71,7 @@ https://miro.com/app/board/uXjVMPVvQ1U=/?share_link_id=516697064475
 
 
 ## Step 6
+- Accessibility
+- Native Frameworks
+- Third-party
+- Non iOS
