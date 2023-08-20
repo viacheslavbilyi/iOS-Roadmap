@@ -28,7 +28,7 @@ https://miro.com/app/board/uXjVMPVvQ1U=/?share_link_id=516697064475
   
 ## Step 3
 - OOP
-- Multithreading
+- [Multithreading](https://habr.com/ru/articles/320152/)
 - Networking
 - Combine Basics
   - [Introduction to Reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
